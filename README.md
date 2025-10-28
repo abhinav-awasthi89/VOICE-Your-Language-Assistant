@@ -3,7 +3,7 @@
 [![Development Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)](https://github.com/your-username/VOICE-Your-Language-Assistant)
 [![Built with Next.js](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Backend](https://img.shields.io/badge/Backend-Python%20Flask-blue?style=for-the-badge&logo=python)](https://flask.palletsprojects.com/)
-[![AI Framework](https://img.shields.io/badge/AI-LangGraph-green?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
+[![AI Framework](https://img.shields.io/badge/AI-LangChain-green?style=for-the-badge)](https://langchain-ai.github.io/langchain/)
 
 ## 🎯 Project Overview
 
@@ -11,7 +11,7 @@
 
 ### 🌟 Key Features
 
-- **Full-Duplex Conversation**: Seamless, fluid conversations without delays or rigid turn-taking
+- **Half-Duplex Conversation**: Seamless, fluid conversations without much delays or rigid turn-taking
 - **Real-Time Grammar Detection**: Instant identification and correction of grammatical errors
 - **Natural Voice Feedback**: Human-like responses through advanced text-to-speech technology
 - **Adaptive Learning**: AI that adapts to casual, spoken, and even grammatically incorrect inputs
@@ -56,7 +56,7 @@ VOICE leverages a sophisticated tech stack to deliver a seamless conversational 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/VOICE-Your-Language-Assistant.git
+git clone https://github.com/chinmaypandey62/VOICE-Your-Language-Assistant.git
 cd VOICE-Your-Language-Assistant
 ```
 
